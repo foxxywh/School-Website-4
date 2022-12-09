@@ -15,6 +15,14 @@
 {
     color: orange;
 }
+.new
+{
+    margin-bottom: 20px;
+}
 
+#contract iframe
+{
+    width: 100%;
+}
 
 
